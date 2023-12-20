@@ -1,0 +1,28 @@
+#mainImage{
+   
+ width: fit-content;
+ height: 500px;
+
+}
+#upperDiv{
+   text-align: center;
+justify-content: center;    
+}
+
+#container1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+#leftpic{
+    width: 600px;
+    height: 500px;
+   
+   }
+
+   #rightpic{
+    width: 600px;
+    height: 500px;
+   
+   }
+
